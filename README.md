@@ -1,8 +1,11 @@
-# React + Vite
+# SideBar Menu
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tested working on a sidebar menu using react
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- HTML
+- CSS (with Tailwind CSS for styling)
+- lucide-react
